@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohit981/paginator.git"
+    "url": "git+https://github.com/mhtkar/paginator.git"
   },
   "keywords": [
     "pagination",
@@ -19,7 +19,7 @@
   "author": "mohit",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mohit981/paginator/issues"
+    "url": "https://github.com/mhtkar/paginator/issues"
   },
-  "homepage": "https://github.com/mohit981/paginator#readme"
+  "homepage": "https://github.com/mhtkar/paginator#readme"
 }
