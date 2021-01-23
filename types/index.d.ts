@@ -1,3 +1,4 @@
+//types
 export declare function paginator(
     totalPosts : number,
     currentPage :number,
