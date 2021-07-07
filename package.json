@@ -1,6 +1,6 @@
 {
   "name": "paginate-number",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A small js library to get paginate numbers",
   "main": "index.js",
   "types": "types/index.d.ts",
